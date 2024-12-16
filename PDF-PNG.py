@@ -2,15 +2,15 @@ from pdf2image import convert_from_path
 import os
 
 # Define file paths
-pdf_path = r"C:\Users\jamai\OneDrive\Desktop\FOR CODING\BIR FORMS\form.pdf"
-output_dir = r"C:\Users\jamai\OneDrive\Desktop\FOR CODING\BIR FORMS\output_images"
+pdf_path = 
+output_dir = 
 
 # Ensure output directory exists
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
 # Set the Poppler path directly in your script
-poppler_path = r'C:\Users\jamai\Downloads\Release-24.08.0-0\poppler-24.08.0\Library\bin'
+poppler_path = 
 
 # Ensure that pdf2image knows where to find Poppler
 os.environ["PATH"] += os.pathsep + poppler_path
