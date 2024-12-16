@@ -5,8 +5,8 @@ from PIL import Image
 import pytesseract
 
 # Define paths
-pdf_path = r"C:\Users\jamai\OneDrive\Desktop\FOR CODING\BIR FORMS\form.pdf"
-excel_file = r"C:\Users\jamai\OneDrive\Desktop\FOR CODING\BIR FORMS\form.xlsx"
+pdf_path = 
+excel_file = 
 
 # Check if PDF exists
 if not os.path.exists(pdf_path):
