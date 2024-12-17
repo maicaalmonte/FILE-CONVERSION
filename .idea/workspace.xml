@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="df477544-6d20-4fb6-a44f-56248a0cd5fc" name="Changes" comment="" />
+    <list default="true" id="df477544-6d20-4fb6-a44f-56248a0cd5fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/(PDF-EXCEL ver. 1).py" beforeDir="false" afterPath="$PROJECT_DIR$/(PDF-EXCEL ver. 1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDF-EXCEL ver 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PDF-EXCEL ver 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDF-EXCEL ver. 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/PDF-EXCEL ver. 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDF-PNG-EXCEL.py" beforeDir="false" afterPath="$PROJECT_DIR$/PDF-PNG-EXCEL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDF-PNG.py" beforeDir="false" afterPath="$PROJECT_DIR$/PDF-PNG.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maicaalmonte&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/maicaalmonte/FILE-CONVERSION.git&quot;,
+    &quot;accountId&quot;: &quot;3cb74500-c7eb-4c0f-992d-3b4fefa67c44&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2qIT2wPY53tyn0uPoTRVBO55RdT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,8 +51,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.(PDF-EXCEL ver. 1).executor": "Run",
+    "Python.PDF-EXCEL ver 2.executor": "Run",
+    "Python.PDF-EXCEL ver. 3.executor": "Run",
+    "Python.PDF-EXCEL.executor": "Run",
+    "Python.PDF-PNG-EXCEL.executor": "Run",
+    "Python.PDF-PNG.executor": "Run",
+    "Python.PDF-XL.executor": "Run",
+    "Python.pdfxl.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/PerfLogs",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
